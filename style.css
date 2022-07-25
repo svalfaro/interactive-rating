@@ -1,0 +1,134 @@
+body {
+  background-color: hsl(216, 12%, 8%);
+  color: hsl(217, 12%, 63%);
+}
+
+h1,
+.main-text {
+  color: hsl(0, 0%, 100%);
+  font-family: "Overpass", sans-serif;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(217, 22%, 16%);
+  width: 425px;
+  height: auto;
+  border-radius: 30px;
+  overflow: hidden;
+  margin: 80px auto 10px;
+}
+
+.class-logo {
+  background-color: #3c444c;
+  font-family: "Overpass", sans-serif;
+  border: none;
+  color: hsl(217, 12%, 63%);
+  padding: 15px;
+  border-radius: 50%;
+  margin-right: 320px;
+  margin-top: 50px;
+  margin-bottom: -75px;
+}
+
+.main-text {
+  line-height: 25px;
+  color: hsl(217, 12%, 63%);
+  padding: 35px;
+  margin-top: 60px;
+  margin-bottom: -30px;
+}
+
+.btn-container {
+  background-color: hsl(217, 22%, 16%);
+  padding: 10px;
+}
+
+.btn-ratings {
+  background-color: #3c444c;
+  font-family: "Overpass", sans-serif;
+  border: none;
+  color: hsl(217, 12%, 63%);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-bottom: 25px;
+  transition-duration: 0.4s;
+}
+
+.btn-ratings:hover {
+  background-color: hsla(25, 97%, 53%);
+  color: hsl(0, 0%, 100%);
+}
+
+.btn-submit {
+  background-color: hsla(25, 97%, 53%);
+  color: hsl(0, 0%, 100%);
+  font-family: "Overpass", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  border: none;
+  border-radius: 50px;
+  width: 350px;
+  height: 47px;
+  margin-bottom: 30px;
+  transition-duration: 0.4s;
+}
+
+.btn-submit:hover {
+  background-color: hsl(0, 0%, 100%);
+  color: hsla(25, 97%, 53%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* # Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+### Primary
+
+- Orange: hsl(25, 97%, 53%)
+
+### Neutral
+
+- White: hsl(0, 0%, 100%)
+- Light Grey: hsl(217, 12%, 63%)
+- Medium Grey: hsl(216, 12%, 54%)
+- Dark Blue: hsl(213, 19%, 18%)
+- Very Dark Blue: hsl(216, 12%, 8%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 15px
+
+### Font
+
+- Family: [Overpass](https://fonts.google.com/specimen/Overpass)
+- Weights: 400, 700 */
