@@ -27,10 +27,10 @@ h1,
   font-family: "Overpass", sans-serif;
   border: none;
   color: hsl(217, 12%, 63%);
-  padding: 15px;
+  padding: 15px 17px;
   border-radius: 50%;
   margin-right: 320px;
-  margin-top: 50px;
+  margin-top: 25px;
   margin-bottom: -75px;
 }
 
@@ -68,6 +68,12 @@ h1,
 .btn-ratings:hover {
   background-color: hsla(25, 97%, 53%);
   color: hsl(0, 0%, 100%);
+  cursor: pointer;
+}
+
+.btn-ratings:focus {
+  background-color: hsl(217, 12%, 63%);
+  color: hsl(0, 0%, 100%);
 }
 
 .btn-submit {
@@ -87,7 +93,8 @@ h1,
 
 .btn-submit:hover {
   background-color: hsl(0, 0%, 100%);
-  color: hsla(25, 97%, 53%);
+  color: hsl(25, 97%, 53%);
+  cursor: pointer;
 }
 
 .attribution {
