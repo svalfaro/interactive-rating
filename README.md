@@ -49,8 +49,8 @@ Users should be able to:
 
 ### **Links**
 
-- [] Solution URL: [FrontEnd Mentor](link)
-- [] Live Site URL: [Netfly](link)
+- [] Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/interactive-rating-card-using-html-css-and-javascript-ybJ-_dwLFs)
+- [x] Live Site URL: [Netfly](https://rate-this.netlify.app/)
 
 ## **My process**
 
