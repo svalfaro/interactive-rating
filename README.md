@@ -32,18 +32,20 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 Users should be able to:
 
-- [] View the optimal layout for the app depending on their device's screen size
-- [] See hover states for all interactive elements on the page
-- [] Select and submit a number rating
-- [] See the "Thank you" card state after submitting a rating
+- [x] View the optimal layout for the app depending on their device's screen size
+- [x] See hover states for all interactive elements on the page
+- [x] Select and submit a number rating
+- [x] See the "Thank you" card state after submitting a rating
 
 ### **Screenshot**
 
 - [ - Desktop View - ]
-    <!-- insert image -->
+  <img width="829" alt="desktop view" src="https://user-images.githubusercontent.com/37648600/181427375-9592d42a-ec70-4002-80a6-4930f68bd4aa.png">
 
 - [ - Mobile View - ]
-    <!-- insert image -->
+  <img width="829" alt="mobile view" src="https://user-images.githubusercontent.com/37648600/181427407-4444143b-9594-43f5-8e86-c1733fdb8136.png">
+
+  ![GIF demonstration of website](http://g.recordit.co/xbDwVq7KvP.gif)
 
 ### **Links**
 
@@ -60,4 +62,10 @@ Users should be able to:
 
 ### **What I learned**
 
+- How to target HTML elements and manipulate via JavaScript.
+- Reading subjects and using them in projects are two different things -- HTMLCollections and NodeLists, for example, were put into practice.
+- addEventListener was a previous hurdle.
+
 ### **Continued development**
+
+- Involve a backend aspect within a project.
