@@ -1,4 +1,4 @@
-# **Product Preview Card**
+# **Interactive Rating Component**
 
 ## **Solution**
 
