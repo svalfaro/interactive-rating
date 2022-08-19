@@ -1,4 +1,5 @@
 # **Interactive Rating Component**
+[status: refactor]
 
 ## **Solution**
 
