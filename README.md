@@ -1,5 +1,6 @@
 # **Interactive Rating Component**
 [status: refactor]
+[flexbox]
 
 ## **Solution**
 
